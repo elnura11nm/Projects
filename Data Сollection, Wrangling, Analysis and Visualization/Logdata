@@ -1,1 +1,103 @@
 
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "In code below create function to splitting log file into parts"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 55,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def get_link(log_line):\n",
+    "    parts = log_line.split()\n",
+    "    if len(parts) > 10:\n",
+    "        return parts[10]\n",
+    "    else:\n",
+    "        return None\n",
+    "\n",
+    "n = 11"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 56,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "links = dict()\n",
+    "with open('sdu-portal.log') as fp:\n",
+    "    for line in fp:\n",
+    "        link = get_link(line)\n",
+    "        if link is not None:\n",
+    "            links[link] = links.get(link, 0) + 1"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Create for and list to add sorted links from log file"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 86,
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "['\"https://my.sdu.edu.kz/index.php?mod=course_reg\"', 25554]\n",
+      "['\"https://my.sdu.edu.kz/index.php\"', 20088]\n",
+      "['\"-\"', 11606]\n",
+      "['\"https://my.sdu.edu.kz/\"', 6443]\n",
+      "['\"https://my.sdu.edu.kz/passwForgot/captchaFilter.php\"', 3719]\n",
+      "['\"https://my.sdu.edu.kz/loginAuth.php\"', 2081]\n",
+      "['\"https://my.sdu.edu.kz/index.php?mod=grades\"', 1364]\n",
+      "['\"https://my.sdu.edu.kz/passwForgot/\"', 976]\n",
+      "['\"https://my.sdu.edu.kz/passwForgot/passwReset.php\"', 897]\n",
+      "['\"https://pms.sdu.edu.kz/index.php\"', 663]\n",
+      "['\"https://my.sdu.edu.kz/index.php?mod=course_struct\"', 657]\n"
+     ]
+    }
+   ],
+   "source": [
+    "my_lists = []\n",
+    "for k, v in sorted(links.items(), key=lambda item: item[1], reverse=True)[:n]:\n",
+    "    writed_links=[k,v]\n",
+    "    my_lists.append(writed_links)\n",
+    "    print (writed_links)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Create result-link.txt file and write list of links "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 89,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "result_links=open(\"result-link.txt\",\"w\")\n",
+    "result_links.writelines(str(my_lists))\n",
+    "result_links.close()"
+   ]
+  }
+ ],
+ "metadata": {},
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
