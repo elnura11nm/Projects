@@ -1,0 +1,301 @@
+0,Ruch Chorzów,120
+1,Oud-Heverlee Leuven,45
+2,Jagiellonia Białystok,120
+3,S.C. Olhanense,75
+4,Lech Poznań,120
+5,P. Warszawa,75
+6,Cracovia,105
+7,Tubize,17
+8,Feirense,15
+9,Évian Thonon Gaillard FC,76
+10,US Boulogne Cote D'Opale,19
+11,Novara,18
+12,KAS Eupen,15
+13,Uniao da Madeira,17
+14,GFC Ajaccio,19
+15,FC Paços de Ferreira,124
+16,PEC Zwolle,68
+17,Leixões SC,30
+18,Go Ahead Eagles,34
+19,AC Bellinzona,54
+20,FC Penafiel,17
+21,FC Volendam,17
+22,FC Dordrecht,17
+23,FC Lausanne-Sports,53
+24,SC Cambuur,51
+25,SC Bastia,76
+26,SM Caen,95
+27,Rio Ave FC,124
+28,Estoril Praia,64
+29,Vitória Guimarães,124
+30,Córdoba CF,19
+31,Granada CF,95
+32,Lugano,18
+33,Sassuolo,57
+34,FCV Dender EH,17
+35,Neuchâtel Xamax,63
+36,Trofense,15
+37,Górnik Łęczna,30
+38,Polonia Bytom,105
+39,Zagłębie Lubin,90
+40,Pogoń Szczecin,60
+41,Widzew Łódź,60
+42,Śląsk Wrocław,120
+43,Zawisza Bydgoszcz,30
+44,Piast Gliwice,90
+45,Lechia Gdańsk,120
+46,Polonia Bytom,45
+47,Podbeskidzie Bielsko-Biała,75
+48,Inverness Caledonian Thistle,133
+49,Angers SCO,19
+50,FC St. Pauli,17
+51,1. FC Nürnberg,85
+52,Hertha BSC Berlin,102
+53,Bayer 04 Leverkusen,136
+54,Burnley,38
+55,Fortuna Düsseldorf,17
+56,Leicester City,38
+57,KV Mechelen,106
+58,TSG 1899 Hoffenheim,136
+59,FC Ingolstadt 04,17
+60,Odra Wodzisław,30
+61,Widzew Łódź,30
+62,Korona Kielce,105
+63,SV Darmstadt 98,17
+64,Vitesse,136
+65,Dundee FC,58
+66,Karlsruher SC,17
+67,Sevilla FC,152
+68,Getafe CF,152
+69,UD Las Palmas,19
+70,Athletic Club de Bilbao,152
+71,Arka Gdynia,45
+72,Club Brugge KV,106
+73,Cardiff City,19
+74,Moreirense FC,49
+75,1. FC Kaiserslautern,34
+76,SpVgg Greuther Fürth,17
+77,SC Freiburg,102
+78,Rayo Vallecano,95
+79,CA Osasuna,114
+80,SD Eibar,38
+81,CD Numancia,19
+82,Real Zaragoza,76
+83,FC Energie Cottbus,17
+84,FC Augsburg,85
+85,Partick Thistle F.C.,57
+86,Hamilton Academical FC,95
+87,Chelsea,152
+88,Manchester City,152
+89,Dunfermline Athletic,19
+90,SC Paderborn 07,17
+91,Portsmouth,38
+92,N.E.C.,119
+93,Southampton,76
+94,St. Johnstone FC,132
+95,Sunderland,152
+96,Waasland-Beveren,48
+97,RC Recreativo,19
+98,AS Nancy-Lorraine,95
+99,Blackpool,19
+100,Aberdeen,152
+101,Stade Brestois 29,57
+102,Atalanta,132
+103,Willem II,102
+104,De Graafschap,68
+105,Wigan Athletic,95
+106,Cagliari,132
+107,Catania,113
+108,Chievo Verona,152
+109,Empoli,38
+110,Fiorentina,150
+111,Livorno,38
+112,Palermo,133
+113,Lazio,151
+114,Rangers,76
+115,Middlesbrough,19
+116,FC Metz,19
+117,Siena,75
+118,RCD Espanyol,152
+119,Bolton Wanderers,76
+120,Real Sociedad,114
+121,Milan,151
+122,GKS Bełchatów,90
+123,KV Kortrijk,106
+124,KV Oostende,33
+125,AC Ajaccio,57
+126,Levante UD,114
+127,AJ Auxerre,76
+128,Tottenham Hotspur,152
+129,RC Lens,57
+130,Olympique de Marseille,152
+131,Ajax,136
+132,Falkirk,38
+133,Kilmarnock,152
+134,Udinese,151
+135,Wolverhampton Wanderers,57
+136,Real Betis Balompié,95
+137,FC Twente,136
+138,Boavista FC,34
+139,Sparta Rotterdam,34
+140,Real Madrid CF,152
+141,FC Barcelona,152
+142,RSC Anderlecht,106
+143,Inter,151
+144,LOSC Lille,152
+145,PSV,136
+146,Ross County FC,76
+147,Liverpool,152
+148,West Ham United,133
+149,Blackburn Rovers,76
+150,Birmingham City,38
+151,West Bromwich Albion,133
+152,RCD Mallorca,95
+153,Hull City,76
+154,Everton,152
+155,Legia Warszawa,120
+156,FC Groningen,136
+157,Bournemouth,19
+158,Le Mans FC,38
+159,Roma,151
+160,FC Lorient,152
+161,Reggio Calabria,19
+162,Racing Santander,76
+163,SV Werder Bremen,136
+164,VfL Wolfsburg,136
+165,1. FC Köln,102
+166,Le Havre AC,19
+167,En Avant de Guingamp,57
+168,Olympique Lyonnais,152
+169,NAC Breda,119
+170,Gil Vicente FC,62
+171,Portimonense,15
+172,Sporting CP,124
+173,
+União de Leiria, SAD
+,45
+174,SL Benfica,124
+175,FC Porto,124
+176,Eintracht Braunschweig,17
+177,Servette FC,35
+178,RC Deportivo de La Coruña,114
+179,Borussia Mönchengladbach,136
+180,Borussia Dortmund,136
+181,Hamburger SV,136
+182,Heracles Almelo,136
+183,Reading,19
+184,St. Mirren,133
+185,Roda JC Kerkrade,119
+186,Torino,95
+187,CF Os Belenenses,79
+188,Naval 1° de Maio,45
+189,Eintracht Frankfurt,119
+190,Watford,19
+191,FC Bayern Munich,136
+192,FC Vaduz,54
+193,Arsenal,152
+194,Crystal Palace,57
+195,Girondins de Bordeaux,152
+196,AS Monaco,114
+197,FC Nantes,76
+198,OGC Nice,152
+199,Dijon FCO,19
+200,Stade de Reims,76
+201,VVV-Venlo,68
+202,Paris Saint-Germain,152
+203,Norwich City,76
+204,Stade Rennais FC,152
+205,AS Saint-Étienne,152
+206,Grenoble Foot 38,38
+207,Bologna,131
+208,Brescia,19
+209,Heart of Midlothian,133
+210,Málaga CF,152
+211,UD Almería,95
+212,CD Tenerife,19
+213,Xerez Club Deportivo,19
+214,Real Sporting de Gijón,95
+215,Valenciennes FC,114
+216,FC Sochaux-Montbéliard,114
+217,Napoli,150
+218,Hellas Verona,57
+219,Pescara,19
+220,Fulham,114
+221,Cesena,55
+222,Sampdoria,133
+223,Juventus,151
+224,Lecce,55
+225,Frosinone,19
+226,Hannover 96,136
+227,1. FSV Mainz 05,119
+228,Atlético Madrid,152
+229,FC Utrecht,136
+230,RC Celta de Vigo,76
+231,VfL Bochum,34
+232,DSC Arminia Bielefeld,17
+233,Celtic,152
+234,Motherwell,151
+235,FC Aarau,72
+236,FC Basel,143
+237,Dundee United,152
+238,Toulouse FC,152
+239,Grasshopper Club Zürich,143
+240,Bari,38
+241,KSV Cercle Brugge,91
+242,Standard de Liège,106
+243,Sporting Charleroi,91
+244,KRC Genk,106
+245,Lierse SK,63
+246,KAA Gent,109
+247,Beerschot AC,76
+248,Sporting Lokeren,106
+249,Royal Excel Mouscron,17
+250,Sint-Truidense VV,59
+251,RAEC Mons,47
+252,KSV Roeselare,31
+253,SV Zulte-Waregem,106
+254,KVC Westerlo,91
+255,Swansea City,95
+256,Parma,113
+257,Queens Park Rangers,57
+258,FC Sion,143
+259,FC Schalke 04,136
+260,FC St. Gallen,108
+261,FC Thun,107
+262,BSC Young Boys,143
+263,Stoke City,152
+264,FC Luzern,143
+265,Villarreal CF,133
+266,SC Beira Mar,45
+267,CS Marítimo,124
+268,Amadora,15
+269,CD Nacional,124
+270,Académica de Coimbra,124
+271,ADO Den Haag,136
+272,Excelsior,68
+273,RKC Waalwijk,68
+274,SC Heerenveen,136
+275,AZ,136
+276,Genoa,151
+277,Feyenoord,136
+278,Vitória Setúbal,124
+279,ES Troyes AC,38
+280,FC Zürich,143
+281,Montpellier Hérault SC,133
+282,Hibernian,115
+283,Aston Villa,152
+284,Manchester United,152
+285,Newcastle United,133
+286,SC Braga,124
+287,Wisła Kraków,120
+288,Valencia CF,152
+289,Elche CF,38
+290,VfB Stuttgart,136
+291,Hércules Club de Fútbol,19
+292,Real Valladolid,76
+293,AC Arles-Avignon,19
+294,FC Arouca,49
+295,Termalica Bruk-Bet Nieciecza,15
+296,Tondela,17
+297,Carpi,19
+298,Royal Excel Mouscron,30
